@@ -12,5 +12,7 @@ int main(void)
 
     cout << "it's " << a << " o'clock now!" << endl; 
 
+    cout << "Morning time will end soon!" << endl;
+
     return 0;
 }
