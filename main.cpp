@@ -14,5 +14,7 @@ int main(void)
 
     cout << "Morning time will end soon!" << endl;
 
+    cout << "Have a nice day!" << endl;
+
     return 0;
 }
